@@ -1,0 +1,19 @@
+{
+  "name": "rpi-neopixel-rgbw",
+  "version": "0.0.1",
+  "description": "raspberryPi library to control neopixel (RGBW variety)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellparsons/rpi-neopixel-rgbw.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitchellparsons/rpi-neopixel-rgbw/issues"
+  },
+  "homepage": "https://github.com/mitchellparsons/rpi-neopixel-rgbw#readme"
+}

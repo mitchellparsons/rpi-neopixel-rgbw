@@ -1,0 +1,1 @@
+cmd_--nothing-being-built-- := LD_LIBRARY_PATH=/Users/mitchell.parsons/repos/rpi-neopixel-rgbw/build/Release/lib.host:/Users/mitchell.parsons/repos/rpi-neopixel-rgbw/build/Release/lib.target:$$LD_LIBRARY_PATH; export LD_LIBRARY_PATH; cd ../.; true
